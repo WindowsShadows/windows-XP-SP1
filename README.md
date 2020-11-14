@@ -1,2 +1,2 @@
-# windows-XP-SP1
-XP SP1 source code 
+# Windows XP Source!
+This is the XP source code! Feel free to modify it and do whatever you want!
